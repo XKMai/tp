@@ -31,10 +31,10 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Mai Xiong Kai
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/xkmai.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/xkmai)]
+[[portfolio](team/xkmai.md)]
 
 - Role: Developer
 - Responsibilities: Documentation; Responsible for the quality of various project documents.
